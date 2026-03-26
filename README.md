@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,bash,docker,py,flask,git,githubactions,go,js,jest,react,vite,vitest,kali,php,laravel,mysql,postgres,sqlite,postman" />
+    <img src="https://skillicons.dev/icons?i=md,bash,docker,git,githubactions,go,php,laravel,mysql,postgres,sqlite,postman" />
   </a> 
 </p>
 
